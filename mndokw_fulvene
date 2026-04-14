@@ -1,0 +1,7 @@
+iop=-22 igeom=1 iform=1 icuts=-1 icutg=-1 +
+iscf=9 iplscf=9 kitscf=999 idiis=0 +
+imult=1 ioutci=2 immdp=-1 kci=5 movo=0 +
+ici1=7 ici2=5 nciref=3 mciref=0 levexc=2 iroot=2 +
+mprint=-1 nprint=-5 iuvcd=2 ncisym=-1 +
+imomap=-1 ktrial=11 ipubo=1 +
+jop=-2 icross=1 ncigrd=2 nsav15=3
